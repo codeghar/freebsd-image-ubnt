@@ -11,9 +11,9 @@ Install make, [Vagrant](https://www.vagrantup.com/) and
 
 For simplicity, I have removed any steps that required Ansible.
 
-Clone this repo ([GitLab](https://gitlab.com/aikchar/freebsd-edgerouterlite-ansible),
-[GitHub](https://github.com/hamzasheikh/freebsd-edgerouterlite-ansible),
-[BitBucket](https://bitbucket.org/aikchar/freebsd-edgerouterlite-ansible)). 
+Clone this repo ([GitLab](https://gitlab.com/codeghar/freebsd-image-ubnt),
+[GitHub](https://github.com/codeghar/freebsd-image-ubnt),
+[BitBucket](https://bitbucket.org/codeghar/freebsd-image-ubnt)).
 
 Optionally, edit *Vagrantfile* to fit your requirements.
 
